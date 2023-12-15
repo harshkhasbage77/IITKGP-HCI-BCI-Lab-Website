@@ -1,4 +1,5 @@
-# template-vite-react-tailwind-v3
+# IITKGP-HCI-BCI-Lab-Website
+## Department of Computer Science and Engineering, IIT Kharagpur
 
 - **template of:** vite + react
 - **tailwindcss:** v3.x
@@ -23,7 +24,3 @@ yarn build
 # or `npm run build`
 ```
 
----
-<p align="center">
-<img src="./powered-by-vitawind-bright.png">
-</p>
