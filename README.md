@@ -1,4 +1,4 @@
-# IITKGP-HCI-BCI-Lab-Website
+# IITKGP-HCI-BCI-Lab-Website (Readme.md to be updated)
 ## Department of Computer Science and Engineering, IIT Kharagpur
 
 - **template of:** vite + react
