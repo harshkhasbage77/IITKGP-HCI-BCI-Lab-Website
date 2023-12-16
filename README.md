@@ -20,7 +20,7 @@
 <!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/harshkhasbage77/IITKGP-HCI-BCI-Lab-Website">
-    <img width="140" alt="image" src="https://user-images.githubusercontent.com/86282911/206632284-cb260f57-c612-4ab5-b92b-2172c341ab23.png">
+    <img width="140" alt="image" src="https://github.com/harshkhasbage77/IITKGP-HCI-BCI-Lab-Website/blob/main/smart.png">
   </a>
 
   <h3 align="center">HCI-BCI Lab Website</h3>
